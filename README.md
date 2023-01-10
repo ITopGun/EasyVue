@@ -68,9 +68,6 @@ Webpack            |4.32.2
 
 > [latest version download](https://github.com/TIGERB/easy-vue/releases/tag/v0.7.1)
 
-## Demo
-
-
 
 ## How To Use ?
 

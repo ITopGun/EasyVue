@@ -89,14 +89,6 @@ step 2:
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 <a href="graphs/contributors"><img src="https://opencollective.com/easy-vue/contributors.svg?width=890&button=false" /></a>
 
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/easy-vue#backer)]
-
-<a href="https://opencollective.com/easy-vue#backers" target="_blank"><img src="https://opencollective.com/easy-vue/backers.svg?width=890"></a>
-
-
 ## Sponsors
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://itopgun.github.io/#)]

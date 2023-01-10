@@ -70,7 +70,7 @@ Webpack            |4.32.2
 
 ## Demo
 
-> <http://vue.tigerb.cn>
+
 
 ## How To Use ?
 
